@@ -1,4 +1,4 @@
-Basics tasks
+Projects beign done using shell 
 
-0. Where am I?
-   Write a script that prints the absolute path name of the current working directory.
+1.Basics of shell and creating scripts
+2.Permissions
